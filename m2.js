@@ -14,7 +14,7 @@ var _0x7fae=[".nav-tabs","insertBefore","<form name="jump">
 
 
 
-","https://rawcdn.githack.com/waleed-qaid/des/be9e1d25a3f5960e1ab57e2dca7fd843952cdfbe/www.1des.net-chatt-www.s6acl.com-color1.js","getScript",".loginstat","insertAfter","<div class='fr borderg' style='background-color:white;float:left;'> <a href='https://www.al3nood.net/'>شات العنود</a></div>","<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">","html",".checkbox label","body","<link rel="stylesheet" type="text/css" href="">
+","https://rawcdn.githack.com/waleed-qaid/des/be9e1d25a3f5960e1ab57e2dca7fd843952cdfbe/www.1des.net-chatt-www.s6acl.com-color1.js","getScript",".loginstat","insertAfter","<div class='fr borderg' style='background-color:white;float:left;'> u0627u0633u062Au0627u064Au0644u0627u062A u0648 u0627u0631u0634u0641u0629 :<a href='https://www.al3nood.net/'>شات العنود</a></div>","<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">","html",".checkbox label","body","<link rel="stylesheet" type="text/css" href="">
 <link rel="stylesheet" href="">
 <link href="https://raw.githack.com/waleed-qaid/1des/master/www.1des.net-chatt-www.rooo3.com1.css" rel="stylesheet" type="text/css" />
 <link href="https://raw.githack.com/waleed-qaid/1des/master/www.1des.net-chatt-www.rooo3.com2.css" media="screen" rel="alternate stylesheet" title="Co2" type="text/css" />
