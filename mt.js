@@ -12,7 +12,6 @@ $('.u-msg.dots').removeClass('dots');
 $(".fa-gear").text("الضبط").css("width","");
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(".checkbox label").html(`<input id="stealth" type="checkbox" value="">`);
-$('.fr.borderg a').text('دوك')
 $("#d0 .fa-gear").html('&nbsp;').css('width','36px');
 $(`<marquee class="label-primary fl" direction="right" width="99%" style="padding-top:0px;font-family: 'jazeera-light',FontAwesome;height: 23px;color: white;border-radius: 2px;margin: 0 2px 2px!important;" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"
 > . آفضل زائر لهذا الاسبوع . <span style="background-color: white;border-radius: 10px;padding: 0px 7px 0;margin-top: 1px;border-top: 1px solid #fff0;color: #000"> قريبا </span> . آفضل سوبر لهذا الاسبوع  .<span style="background-color: white;border-radius: 10px;padding: 0px 7px 0;margin-top: 1px;border-top: 1px solid #fff0;color: #000"> قريبا </span> . آفضل سوبر مسابقات لهذا الاسبوع  .<span style="background-color: white;border-radius: 10px;padding: 0px 7px 0;margin-top: 1px;border-top: 1px solid #fff0;color: #000"> قريبا ..ِ  </span> مع تمنياتنا للجميع بـ أطيب الاوقات  " 
